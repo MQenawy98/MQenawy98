@@ -5,7 +5,7 @@
   </div> -->
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square&scale=2)](https://www.facebook.com/mohmaed.mohsen.7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square&scale=2)](www.linkedin.com/in/mohamed-qenawy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square&scale=2)](https://www.linkedin.com/in/mohamed-qenawy/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white&style=flat-square&scale=2)](mailto:mohmaemdmoshen70@gmail.com)
 
 
